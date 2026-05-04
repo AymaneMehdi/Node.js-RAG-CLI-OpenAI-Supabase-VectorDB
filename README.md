@@ -373,10 +373,6 @@ match_count: 5,  // Get 5 results
 
 ## License
 
-This project is licensed under the [ISC License](LICENSE).
-
+This project is licensed under the [MIT License](LICENSE).
 ---
-
-**Copyright © 2026 Aymane Mehdi**
-
-For questions, issues, or contributions, please visit the [GitHub repository](https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-Supabase-VectorDB).
+Copyright© Aymane Mehdi
