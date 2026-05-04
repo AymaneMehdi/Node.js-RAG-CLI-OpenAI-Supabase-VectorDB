@@ -1,0 +1,24 @@
+{
+  "name": "node.js-rag-cli-openai-supabase-vectordb",
+  "version": "1.0.0",
+  "description": "A CLI-based RAG (Retrieval-Augmented Generation) application using Supabase as a vector database for semantic search and OpenAI for answer generation.",
+  "homepage": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-Supabase-VectorDB#readme",
+  "bugs": {
+    "url": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-Supabase-VectorDB/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-Supabase-VectorDB.git"
+  },
+  "license": "ISC",
+  "author": "Aymane Mehdi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.35.0"
+  }
+}
